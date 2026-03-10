@@ -103,6 +103,7 @@ Aashi Tiwari | Development |
 Danny Thomas | Development |
 
 This project was developed collaboratively as part of an **academic team project**.
+
 ---
 
 © 2026 Aashi Tiwari
